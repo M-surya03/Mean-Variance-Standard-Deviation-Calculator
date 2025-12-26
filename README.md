@@ -9,5 +9,7 @@ project setup:
 
    Run command: pip install numpy
 
-2. Run the file 
-   Run command: python mean_var_std
+2. Run the file
+    
+   Run command: python mean_var_std.py
+
